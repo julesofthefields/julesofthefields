@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Jules 👋
+
+A little about me:
+
+youpi
 
 <!--
 **julesofthefields/julesofthefields** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
